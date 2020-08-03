@@ -35,5 +35,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Voice controlled personal hub made with React, Typescript, Firebase, DialogFlow",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximeantoine1997/Hubberry.git"
+  },
+  "author": "Maxime Antoine - hello@145.studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximeantoine1997/Hubberry/issues"
+  },
+  "homepage": "https://github.com/maximeantoine1997/Hubberry#readme"
 }
