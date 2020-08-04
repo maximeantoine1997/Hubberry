@@ -1,6 +1,6 @@
-import { dialogflowWebhooks } from "./routes/Dialogflow";
 import bodyParser from "body-parser";
-import express, { json } from "express";
+import express from "express";
+import { dialogflowWebhooks } from "./routes/Dialogflow";
 import { postMessages, putMessage } from "./routes/Messages";
 import { getUser } from "./routes/Users";
 
